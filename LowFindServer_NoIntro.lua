@@ -214,7 +214,7 @@ end
                 queueOnTeleport([[
                     repeat task.wait() until game:IsLoaded()
                     -- Ganti string di bawah ini dengan link raw script kamu jika menggunakan loadstring online
-                    loadstring(game:HttpGet("https://raw.githubusercontent.com/rizz65667-svg/Hgh/refs/heads/main/LowFindServer"))()
+                    loadstring(game:HttpGet("https://raw.githubusercontent.com/rizz65667-svg/NO-INTRO-/refs/heads/main/LowFindServer_NoIntro.lua"))()
                 ]])
             end)
         end
